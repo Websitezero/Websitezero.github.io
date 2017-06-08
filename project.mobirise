@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 188,
+    "uniqCompNum": 192,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -123,7 +123,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -316,7 +316,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -684,7 +684,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -702,7 +702,7 @@
             "paddingBottom": 3,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1333.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1125.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1732,7 +1732,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2446,7 +2446,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -2765,6 +2765,173 @@
             "odnoklassniki": true
           },
           "text": "Расскажи он нас!"
+        }
+      ]
+    },
+    "Domens.html": {
+      "settings": {
+        "title": "Какой домен выбрать?",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#acacac"
+            }
+          },
+          "_anchor": "footer1-58",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 website zero.ru."
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "font-family": "'Droid Sans', sans-serif"
+            },
+            ".link": {
+              "font-size": "1.1rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.191rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#f3c649!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-59",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "1.1",
+            "fontName": {
+              "name": "Droid Sans",
+              "url": "https://fonts.googleapis.com/css?family=Droid+Sans:400,700",
+              "css": "'Droid Sans', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": false,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Этап 1</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Этап 2</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Этап 3</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-5a",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6-2000x1333.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Выбираем домен",
+          "text": "<p>Лучшая зона сети</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-5b",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Уже после того, как <a href=\"Day 3.html\">я выложил сайт в сеть</a>, меня посетила мысль, мол, а какой домен самый лучший (для жителей России, конечно).</p><p>Естественно, идеального домена нет, т.к каждый делает сайт для своих целей. Турагенству, например покупка домен .travel была бы неплохим приобретением, но в то же время этот домен совершенно не подойдет сайту средств массовой информации (СМИ), для которых просто идеален домен .net. Поэтому сейчас я постараюсь найти не <i>идеальный</i>, а<b>&nbsp;</b><i>универсальный </i>домен, который вполне подошел бы всем вместе.</p><p>На рассмотрение я взял три международные доменные зоны (.org/.com/.net), и четыре российские зоны (.ru/.su/.рф/.рус). Разбирать мы их будем по простым параметрам:</p><p>*Популярность (среди покупателей доменов) -низкая/есть/очень популярна</p><p>*Цена (на основе цен на&nbsp;<a href=\"http://reg.ru\" target=\"_blank\">reg.ru</a>&nbsp;, со скидками и без)</p><p>*Зона охвата (на какие районы распросраняется зона)</p><p>Ну и мое личное мнение по поводу каждого из доменов. Начнем:</p><p><b>1. .org</b></p><p>*<b>Популярность</b> - есть (довольно часто вижу сайты с доменной зоной .org)</p><p>*<b>Цена</b> - &nbsp;1308 руб.&nbsp;</p><p>*<b>Международная зона</b></p><p>Зона довольно известная, каждый видел хотя бы один сайт, кончающийся на .org, но как по мне, домен слишком дорогой и все - таки менее популярный чем .com, однако если вы какое то новостное издание, то .org вам подойдет.</p><p><b>2. .com</b></p><p>*<b>Популярность</b> - очень популярна</p><p>*<b>Цена</b> - 1086 руб.</p><p>*<b>Международная зона</b></p><p>Вот такой бы домен я бы купил, если бы были деньги. Очень популярный и леко узнаваемый международный домен, так что если ваш сайт нацелен не только на Россию, то смело берите этот домен - не прогадаете.</p><p><b>3. .net</b></p><p>*<b>Популярность</b> - есть (но в России в меньшей мере)</p><p>*<b>Цена</b> - 1142 руб.</p><p>*<b>Международная зона</b></p><p>В последнее время я начал редко видеть сайт с доменом .net, однако это не значит что их нет или их мало. Просто стали реже регистрировать новые. Но если вы (как уже говорилось выше) создаете сайт для СМИ, то домен .net для вас будет в самый раз, т.к на западе этот домен давно косвенно ассоциируется со СМИ.</p><p><b>4. .ru</b></p><p>*<b>Популярность</b> - очень популярна</p><p>*<b>Цена</b> - 99/1000 руб.</p><p>*<b>РФ</b></p><p>Ох, этот старый - добрый .ru... Даже этот сайт находиться в доменной зоне .ru, что тут сказать. Невроятно популярный домен, почти любой сайт в России заканчивается именно на .ru. &nbsp;Мне кажется, дальнейшие комментарии излишни.</p><p><b>5. .su</b></p><p>*<b>Популярность</b> - низкая (но это не точно)</p><p>*<b>Цена</b> - 459/850 руб.</p><p>*Рф и страны бывшего Советского Союза</p><p>Сказать по-правде, я только один раз в жизни видел домен .su - в танках (вы поняли о чем я), поэтому <b>лично я</b>&nbsp;не рекомендовал вам покупать такой домен. Во - первых, дорого даже со скидкой. Во - вторых непопулрно (это только мое мнение). Хотя, есл вы из Беларуси, например, то возможно этот домен вам подойдет. В итоге, на свой страх и риск.</p><p><b>6. .рф</b></p><p>*<b>Популярность</b> - есть</p><p>*<b>Цена</b> - 99/999 руб</p><p>*Рф</p><p>Этот домен я постоянно вижу на сайтах госучреждений. Из этого следует, что если вы делаете сайт госучреждения, то вы (мне просто так кажется) <i>обязаны</i>&nbsp;иметь домен .рф, но если вы не госслужащий, то лучше возьмите .ru.</p><p><b>7. .рус</b></p><p>*<b>Популярность</b> - низкая</p><p>*<b>Цена</b> - 459/1469 руб</p><p>*<b>Рф</b></p><p>Вот что - что, а такой домен лучше не покупать. Мало того что спрос на такой домен <b>крайне</b> низок, так еще и цена куда выше, чем у того же .ru, или даже .su. О пользе этого домена лучше не говорить, т.к мне кажется что он нужен для всяких псевдопатриотов и прочих агресивных людей.</p><p>Итак, <b>подведем итоги</b>.</p><p>Для обычного ИП-шника или любого другого человека, не нацеленого на работу своего сайта на международном уровне прекрасно подходит домен .ru. Популярный, узнаваемы, а самое главное - дешевый, он оставил соперников позади и стал самым лучшим (по моему мнению, конечно) доменом России. Ура(?)</p><p>Если же вы хотите, чтобы ваш сайт был международным, то для вас прекрасным выбором будет домен .com.</p>"
         }
       ]
     }
