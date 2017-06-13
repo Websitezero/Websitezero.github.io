@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Day 4.html",
     "name": "Это рабочий",
     "theme": {
       "name": "mobirise3",
@@ -16,13 +16,13 @@
         "subtitleFont": "Montserrat",
         "textFont": "Oxygen",
         "isRoundedButtons": false,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": false,
         "isRtl": false
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 224,
+    "uniqCompNum": 239,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": ""
@@ -170,7 +170,7 @@
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p>Добрый день, меня зовут Ваня, и я учусь в 8-ом классе. Совсем недавно я решил научиться  делать  собственные сайты, т.к в будущем я хочу связать свою жизнь с IT - индустрией. В плане простой компьютерной грамотности (Word, PowerPoint, Excel и т.д) я вполне понимающий, но созданием сайтов никогда не занимался, и о HTML только пару раз слышал. Однако свой сайт сделать хочется, и тут мне на помощь приходят сайт-мейкеры - программы для создания этих самых сайтов без особых знаний в области программирования. Для меня это отличная возможность реализовать намеченную цель, и я решил что буду делиться с вами процессом создания своего сайта, для того, чтобы в будущем таким новичкам как я было легче и быстрее создать свой сайт.</p><p>Начать я решил с такой программы как <a href=\"http://mobirise.com/\" target=\"_blank\">Mobirise</a> т.к она мне показалась более понятной и простой, чем другие сайт-мейкеры (да и отзывы там хорошие). Позже я попытаюсь создать свой сайт с помощью других программ (через <a href=\"http://www.wix.com\" target=\"_blank\">Wix</a>, например).</p><p>Чтобы вам проще было ориентироваться, я оствалю вам оглавление:</p><p>*<a href=\"Searching.html\">Ищем лучший сайт-мейкер</a></p><p>*<a href=\"Day 2.html\">Начинаем работу с сайтом</a>&nbsp;</p><p>*<a href=\"Day 3.html\">Опубликовываем сайт и покупаем домен</a></p><p><br></p>"
+          "text": "<p>Добрый день, меня зовут Иван, и я учусь в 8-ом классе. Совсем недавно я решил научиться  делать  собственные сайты, т.к в будущем я хочу связать свою жизнь с IT - индустрией. В плане простой компьютерной грамотности (Word, PowerPoint, Excel и т.д) я вполне понимающий, но созданием сайтов никогда не занимался, и о HTML только пару раз слышал. Однако свой сайт сделать хочется, и тут мне на помощь приходят сайт-мейкеры - программы для создания этих самых сайтов без особых знаний в области программирования. Для меня это отличная возможность реализовать намеченную цель, и я решил что буду делиться с вами процессом создания своего сайта, для того, чтобы в будущем таким новичкам как я было легче и быстрее создать свой сайт.</p><p>Начать я решил с такой программы как <a href=\"http://mobirise.com/\" target=\"_blank\">Mobirise</a> т.к она мне показалась более понятной и простой, чем другие сайт-мейкеры (да и отзывы там хорошие). Позже я попытаюсь создать свой сайт с помощью других программ (через <a href=\"http://www.wix.com\" target=\"_blank\">Wix</a>, например).</p><p>Чтобы вам проще было ориентироваться, я оствалю вам оглавление:</p><p>*<a href=\"Searching.html\">Ищем лучший сайт-мейкер</a></p><p>*<a href=\"Day 2.html\">Начинаем работу с сайтом</a>&nbsp;</p><p>*<a href=\"Day 3.html\">Опубликовываем сайт и покупаем домен</a></p><p><br></p>"
         },
         {
           "_tags": [
@@ -731,7 +731,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Сначала нам надо скачать саму программу Mobirise на <a href=\"http://mobirise.com/\" target=\"_blank\">официальном сайте кампании</a></p><p></p>"
+          "text": "<p>Совсем недавно мы нашли лучший <a href=\"Searching.html\">сайт-мейкер</a>, теперь пора создать сам сайт.</p><p>Сначала нам надо скачать саму программу Mobirise на <a href=\"http://mobirise.com/\" target=\"_blank\">официальном сайте кампании</a></p><p></p>"
         },
         {
           "_tags": [
@@ -1804,7 +1804,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Чтобы мой/ваш сайт увидели все желающие, к нему нужно купить домен и захостить сайт.</p><p>Для этого нам понадобится хост (<a href=\"http://github.com/\" target=\"_blank\">github.com</a>)&nbsp;и домен (<a href=\"http://reg.ru\" target=\"_blank\">reg.ru</a>).</p><p>Гитхаб я выбрал, т.к сам Mobirise предлагает всем использовать этот сайт (как см. ниже), а рег.ру как регистратор доменов, т.к это один из самых (если не самый) крупный сайт-регистратор доменов в России</p><p>Начать лучше всего с хоста, чем я и займусь.</p><p>Однако перед этим, узнаем, что такое хост и домен.</p><p>Посмотрим, что скажет Википедия:</p><p><b>Хост</b> (от англ. host — «хозяин, принимающий гостей») — любое устройство, предоставляющее сервисы формата «клиент-сервер» в режиме сервера по каким-либо интерфейсам и уникально определённое на этих интерфейсах. В более частном случае под хостом могут понимать любой компьютер, сервер, подключённый к локальной или глобальной сети.</p><p><b>Доменное имя </b>— символьное имя, помогающее находить адреса интернет-серверов.</p><p><b>Доменная зона</b> — зона ответственности в распределённой системе DNS.</p><p>Само определение \"Домен\" является набором сложных и неотносящихся к работе слов, поэтому я его не привел.</p><p>Теперь все - таки начнем:</p><p>Сначала надо зайти на сайт github.com и пройти регистрацию.</p>"
+          "text": "<p>Чтобы мой/ваш сайт увидели все желающие, к нему нужно купить домен и захостить сайт (как я создавал сайт, читай <a href=\"Day 2.html\">тут</a>).</p><p>Для этого нам понадобится хост (<a href=\"http://github.com/\" target=\"_blank\">github.com</a>)&nbsp;и домен (<a href=\"http://reg.ru\" target=\"_blank\">reg.ru</a>).</p><p>Гитхаб я выбрал, т.к сам Mobirise предлагает всем использовать этот сайт (как см. ниже), а рег.ру как регистратор доменов, т.к это один из самых (если не самый) крупный сайт-регистратор доменов в России</p><p>Начать лучше всего с хоста, чем я и займусь.</p><p>Однако перед этим, узнаем, что такое хост и домен.</p><p>Посмотрим, что скажет Википедия:</p><p><b>Хост</b> (от англ. host — «хозяин, принимающий гостей») — любое устройство, предоставляющее сервисы формата «клиент-сервер» в режиме сервера по каким-либо интерфейсам и уникально определённое на этих интерфейсах. В более частном случае под хостом могут понимать любой компьютер, сервер, подключённый к локальной или глобальной сети.</p><p><b>Доменное имя </b>— символьное имя, помогающее находить адреса интернет-серверов.</p><p><b>Доменная зона</b> — зона ответственности в распределённой системе DNS.</p><p>Само определение \"Домен\" является набором сложных и неотносящихся к работе слов, поэтому я его не привел.</p><p>Теперь все - таки начнем:</p><p>Сначала надо зайти на сайт github.com и пройти регистрацию.</p>"
         },
         {
           "_tags": [
@@ -2469,7 +2469,7 @@
           "_anchor": "header2-51",
           "_params": {
             "imageSize": 50,
-            "parallax": true,
+            "parallax": false,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "bgColor": "#2e2e2e",
@@ -2479,7 +2479,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.3,
+            "overlayOpacity": "0.3",
             "overlayColor": "#000",
             "inverse": false,
             "showTitle": true,
@@ -2670,7 +2670,7 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>“Это действительно прекрасный сайт, который помог мне создать html - страницу за 3 минуты (обычно это занимает 2-3 часа) Я надеюсь, что автор продолжит работу и с другими сайт-мейкерами.”</p>",
+              "text": "<p><a href=\"Searching.html\">Как выбрать лучший сайт-мейкер</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face3.jpg",
@@ -2680,11 +2680,11 @@
                   "active": true
                 }
               },
-              "authorName": "Александр В.",
+              "authorName": ".",
               "authorBio": "User"
             },
             {
-              "text": "<p>“На первый взгляд, это простое и понятное руководство по сложной теме, однако это не совсем так. Это простое и понятное руководство по простой теме. Благодаря этому блогу теперь я думаю именно так.”</p>",
+              "text": "<p><a href=\"Day 2.html\">Как создать свой сайт</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face1.jpg",
@@ -2698,7 +2698,7 @@
               "authorBio": "User"
             },
             {
-              "text": "<p>“Работаю дизайнером, и как любому дизайнеру мне требовался собственный сайт, однако я не знала что тут и как. Прочитав блог, создала свой красивый сайт всего за 20 минут. Клиенты в восторге! Спасибо! ”</p>",
+              "text": "<p><a href=\"Day 3.html\">Как сделать сайт видимым для всех</a></p>",
               "media": {
                 "image": {
                   "src": "@THEME_PATH@/components/_images/face2.jpg",
@@ -2718,7 +2718,7 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showImages": false,
-            "showName": true,
+            "showName": false,
             "showBio": false,
             "bgImageRadio": false,
             "parallax": true,
@@ -2731,7 +2731,7 @@
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "А что скажут пользователи?",
+          "title": "Что же тут есть?",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
@@ -2897,7 +2897,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3064,7 +3064,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3436,7 +3436,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -3483,7 +3483,371 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Скорее всего, этот блок будет если не самым длинным, то точно одним из. Я буду постепеноо совершенствовать свой сайт, а сюда заносить процесс этого совершенствования.</p>"
+          "text": "<p>Скорее всего, этот блок будет если не самым длинным, то точно одним из. Я буду постепеноо совершенствовать свой сайт, а сюда заносить процесс этого совершенствования.</p><p>Для начала, я хотел сделать https для сайта, дабы он был более защищенным.</p><p>Проведем ликбез:</p><p>HTTPS (аббр. от англ. HyperText Transfer Protocol Secure) — расширение протокола HTTP, для поддержки шифрования в целях повышения безопасности.</p><p>Теперь всем стало понятно, что иметь https на своем сайте - штука довольно полезная. Остался вопрос - как мне его бесплатно оформить и прикрутить к сайту? С этим вопросом я отправился на просторы интернета, и нашел вот такое вот руководство <a href=\" https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc\" target=\"_blank\">https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc</a></p><p>Если с английским у вас пробелмы, то я объясню:</p><p>Переходим по этой ссылке, и регистрируемся <a href=\"http://cloudflare.com\" target=\"_blank\">cloudflare.com</a></p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-69",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1400x943.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6a",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "Затем нажимаете продолжить"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            },
+            "P": {
+              "color": "#f97352"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1231.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": true,
+                "text": "",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1497.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1340.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x993.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-6c"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6d",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Не забудьте, что данные вам сайтом имена серверов могут различаться (и вообще, не забудьте их переименовать).</p><p>Если вы все сделали правильно, то у вас должно появиться похожее окно:</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6e",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1400x895.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>К сожалению, дальше я продвинутся не смог, т.к Рег ру запрещает мне переименовывать сервера.&nbsp;</p><p>Так что до поры до времени я лишен возможности прикрутить https к моему сайту.</p><p>Если я не сделал сайт более защищенным, то может быть я смогу его сделать более легким в поиске?</p><p>С этой мыслью я решил купить домен .рф на Nethouse, и сделать так, чтобы мой домен сайтснуля.рф показывал тоже самое, что и websitezero.ru.</p><p>Для этого, покупаем домен на Нетхаусе</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1146.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1505.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x825.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1026.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-6g"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6h",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Проходим абсолютно простой и схожий с рег ру алгоритм покупки домена, подтверждаем номер телефона, и теперь я обладатель домена сайтснуля.рф.</p><p>Вроде бы, осталось прикрутить его к гитхабу и все... Но не тут то было. Больше одного CNAME файла быть не может - не может быть двух доменов на одном и том же гитхаб аккаунте. Об этом я прочитал вот<a href=\"https://help.github.com/articles/troubleshooting-custom-domains/\" target=\"_blank\"> тут&nbsp;</a>.</p><p>Эта ситуация огорчила меня, но я не растерялся, и создал еще одну страницу гитхаб, и залил туда все тоже самое.</p>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6j",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1400x795.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Да вот только что-то пошло не так."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6k",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1400x674.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "Сайт что-то не захотел открываться, и я подумал: \"Может, свой сайт в Гугле поискать?\"<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-6l",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "bgColor": "#fff",
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screenshot-1400x711.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "И еще одно внезапное открытие. Т.е кто-то уже зарегистрировал такой сайт? Это объяснило бы тот факт, что мой домен не открывается.<br>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-6m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Поэтому и с этим вопросом я решил повременить, пока не найду толковое объяснение всего этого.</p>"
         }
       ]
     },
@@ -3603,7 +3967,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" target=\"_blank\">Официалный сайт Mobirise</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cheapest domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Day 3.html\">Выходим в сеть</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
