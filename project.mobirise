@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "introduction.html",
+    "currentPage": "index.html",
     "name": "Это рабочий",
     "theme": {
       "name": "mobirise3",
@@ -150,7 +150,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -267,9 +267,10 @@
               "name": "hourglass",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title1": "Быстро",
@@ -283,9 +284,10 @@
               "name": "search",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title2": "Понятно",
@@ -299,9 +301,10 @@
               "name": "linegraph",
               "family": "et-line",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title3": "Структурировано",
@@ -315,9 +318,10 @@
               "name": "users",
               "family": "MobiriseIcons",
               "active": true,
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff"
+              "color": "#fff",
+              "newWindow": false
             }
           },
           "title4": "Такой же как и вы",
@@ -386,7 +390,7 @@
                   "active": true
                 }
               },
-              "authorName": "Скачиваем программу, редактируем шапку, добавдяем и редактируем блоки, вставляем картинки",
+              "authorName": "Скачиваем программу, редактируем шапку, добавляем и редактируем блоки, вставляем картинки",
               "authorBio": "User"
             },
             {
@@ -604,7 +608,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -950,7 +954,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1143,7 +1147,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1311,7 +1315,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"day4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1684,7 +1688,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -2732,7 +2736,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -3455,7 +3459,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Сайт с нуля</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Полезная информация</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"domens.html\">Как выбрать хороший домен</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"cheapest-domens.html\">Как подобрать хороший сайт - регистратор</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"true\" data-toggle=\"dropdown-submenu\">Блог</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"introduction.html\">Введение</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"searching.html\">Ищем лучший сайт-мейкер</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step2.html\">Создаем сам сайт</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step3.html\">Выходим в сеть</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"step4.html\">Улучшаем сайт</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
