@@ -26,7 +26,7 @@
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-101113275-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter44999470 = new Ya.Metrika({\r\n                    id:44999470,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/44999470\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-101113275-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter44999470 = new Ya.Metrika({\r\n                    id:44999470,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/44999470\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->\r\n<!-- Put this script tag to the <head> of your page -->\r\n<script type=\"text/javascript\" src=\"//vk.com/js/api/openapi.js?146\"></script>\r\n\r\n<script type=\"text/javascript\">\r\n  VK.init({apiId: API_ID, onlyWidgets: true});\r\n</script>\r\n\r\n<!-- Put this div tag to the place, where the Comments block will be -->\r\n<div id=\"vk_comments\"></div>\r\n<script type=\"text/javascript\">\r\nVK.Widgets.Comments(\"vk_comments\", {limit: 10, attach: \"photo,link\"});\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -515,7 +515,7 @@
           "form": {
             "action": "JohnGraham361docs@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Спасибо. Я приму к сведению ваше предложение и попытаюсь решить ваш вопрос"
             },
             "fields": {
               "name": {
@@ -526,7 +526,7 @@
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Адрес эл почты *"
+                "customTitle": "Адрес эл почты*"
               },
               "phone": {
                 "title": "Phone",
