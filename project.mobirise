@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "step3.html",
     "name": "Это рабочий",
     "theme": {
       "name": "mobirise3",
@@ -22,11 +22,11 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 271,
+    "uniqCompNum": 276,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
-    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-101113275-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter44999470 = new Ya.Metrika({\r\n                    id:44999470,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/44999470\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->\r\n\r\n<!-- Put this script tag to the <head> of your page -->\r\n<script type=\"text/javascript\" src=\"//vk.com/js/api/openapi.js?146\"></script>\r\n\r\n<script type=\"text/javascript\">\r\n  VK.init({apiId: API_ID, onlyWidgets: true});\r\n</script>\r\n\r\n<!-- Put this div tag to the place, where the Comments block will be -->\r\n<div id=\"vk_comments\"></div>\r\n<script type=\"text/javascript\">\r\nVK.Widgets.Comments(\"vk_comments\", {limit: 10, attach: \"photo,link\"});\r\n</script>\r\n"
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-101113275-1', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n<!-- Yandex.Metrika counter -->\r\n<script type=\"text/javascript\">\r\n    (function (d, w, c) {\r\n        (w[c] = w[c] || []).push(function() {\r\n            try {\r\n                w.yaCounter44999470 = new Ya.Metrika({\r\n                    id:44999470,\r\n                    clickmap:true,\r\n                    trackLinks:true,\r\n                    accurateTrackBounce:true,\r\n                    webvisor:true\r\n                });\r\n            } catch(e) { }\r\n        });\r\n\r\n        var n = d.getElementsByTagName(\"script\")[0],\r\n            s = d.createElement(\"script\"),\r\n            f = function () { n.parentNode.insertBefore(s, n); };\r\n        s.type = \"text/javascript\";\r\n        s.async = true;\r\n        s.src = \"https://mc.yandex.ru/metrika/watch.js\";\r\n\r\n        if (w.opera == \"[object Opera]\") {\r\n            d.addEventListener(\"DOMContentLoaded\", f, false);\r\n        } else { f(); }\r\n    })(document, window, \"yandex_metrika_callbacks\");\r\n</script>\r\n<noscript><div><img src=\"https://mc.yandex.ru/watch/44999470\" style=\"position:absolute; left:-9999px;\" alt=\"\" /></div></noscript>\r\n<!-- /Yandex.Metrika counter -->\r\n\r\n\r\n"
   },
   "pages": {
     "index.html": {
@@ -494,6 +494,11 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "form1-7h",
           "_params": {
             "labelsColor": "#232323",
@@ -539,12 +544,32 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7j",
+          "_params": {
+            "postsNumber": "5",
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -912,7 +937,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Очевидно, я решил начать создавать свой сайт с помощью Mobirise т.к он мне очень понравился, да и плюсов у него больше, чем у остальных.</p><p>Пора <a href=\"day2.html\">создать сам сайт</a>.</p>"
+          "text": "<p>Очевидно, я решил начать создавать свой сайт с помощью Mobirise т.к он мне очень понравился, да и плюсов у него больше, чем у остальных.</p><p>Пора <a href=\"step2.html\">создать сам сайт</a>.</p>"
         }
       ]
     },
@@ -1252,6 +1277,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>Уже после того,&nbsp;<a href=\"step3.html\">как я выложил сайт в сеть</a>, меня посетила мысль, мол, а какой домен самый лучший (для жителей России, конечно).</p><p>Естественно, идеального домена нет, т.к каждый делает сайт для своих целей. Турагенству, например покупка домен .travel была бы неплохим приобретением, но в то же время этот домен совершенно не подойдет сайту средств массовой информации (СМИ), для которых просто идеален домен .net. Поэтому сейчас я постараюсь найти не идеальный, а универсальный домен, который вполне подошел бы всем вместе.</p><p>На рассмотрение я взял три международные доменные зоны (.org/.com/.net), и четыре российские зоны (.ru/.su/.рф/.рус). Разбирать мы их будем по простым параметрам:</p><p>*Популярность (среди покупателей доменов) -низкая/есть/очень популярна</p><p>*Цена (на основе цен на <a href=\"http://reg.ru\" target=\"_blank\">reg.ru </a>, со скидками и без)</p><p>*Зона охвата (на какие районы распросраняется зона)</p><p>Ну и мое личное мнение по поводу каждого из доменов. Начнем:</p><p>1. .org</p><p>*<b>Популярность</b> - есть (довольно часто вижу сайты с доменной зоной .org)</p><p>*<b>Цена</b> - 606/1308 руб.&nbsp;</p><p>*<b>Международная зона</b></p><p>Зона довольно известная, каждый видел хотя бы один сайт, кончающийся на .org, но как по мне, домен слишком дорогой и все - таки менее популярный чем .com, однако если вы какое то новостное издание, то .org вам подойдет.</p><p>2. .com</p><p>*<b>Популярность</b> - очень популярна</p><p>*<b>Цена</b> - 479/1086 руб.</p><p>*<b>Международная зона</b></p><p>Вот такой бы домен я бы купил, если бы были деньги. Очень популярный и леко узнаваемый международный домен, так что если ваш сайт нацелен не только на Россию, то смело берите этот домен - не прогадаете.</p><p>3. .net</p><p>*<b>Популярность</b> - есть (но в России в меньшей мере)</p><p>*<b>Цена </b>- 512/1142 руб.</p><p>*<b>Международная зона</b></p><p>В последнее время я начал редко видеть сайт с доменом .net, однако это не значит что их нет или их мало. Просто стали реже регистрировать новые. Но если вы (как уже говорилось выше) создаете сайт для СМИ, то домен .net для вас будет в самый раз, т.к на западе этот домен давно косвенно ассоциируется со СМИ.</p><p>4. .ru</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">*<b>Популярность</b> - очень популярна</span><br></p><p>*<b>Цена </b>- 99/1000 руб.</p><p>*<b>РФ</b></p><p>Ох, этот старый - добрый .ru... Даже этот сайт находиться в доменной зоне .ru, что тут сказать. Невероятно популярный домен, почти любой сайт в России заканчивается именно на .ru.  Мне кажется, дальнейшие комментарии излишни.</p><p>5. .su</p><p>*<b>Популярность</b> - низкая (но это не точно)</p><p>*<b>Цена</b> - 459/850 руб.</p><p>*<b>Рф и страны бывшего Советского Союза</b></p><p>Сказать по-правде, я только один раз в жизни видел домен .su - в танках (вы поняли о чем я), поэтому лично я не рекомендовал вам покупать такой домен. Во - первых, дорого даже со скидкой. Во - вторых непопулярно (это только мое мнение). Хотя, есл вы из Беларуси, например, то возможно этот домен вам подойдет. В итоге, на свой страх и риск.</p><p>6. .рф</p><p>*<b>Популярность</b> - есть</p><p>*<b>Цена</b> - 99/999 руб</p><p>*<b>Рф</b></p><p>Этот домен я постоянно вижу на сайтах госучреждений. Из этого следует, что если вы делаете сайт госучреждения, то вы (мне просто так кажется) обязаны иметь домен .рф, но если вы не госслужащий, то лучше возьмите .ru.</p><p>7. .рус</p><p>*<b>Популярность</b> - низкая</p><p>*<b>Цена</b> - 459/1469 руб</p><p>*<b>Рф</b></p><p>Вот что - что, а такой домен лучше не покупать. Мало того что спрос на такой домен крайне низок, так еще и цена куда выше, чем у того же .ru, или даже .su. О пользе этого домена лучше не говорить, т.к мне кажется что он нужен для всяких глупых и неэкономных людей.</p><p>Итак, <b>подведем итоги</b>.</p><p>Для обычного ИП-шника или любого другого человека, не нацеленого на работу своего сайта на международном уровне прекрасно подходит домен .ru. Популярный, узнаваемы, а самое главное - дешевый, он оставил соперников позади и стал самым лучшим (по моему мнению, конечно) доменом России. Ура(?)</p><p>Если же вы хотите, чтобы ваш сайт был международным, то для вас прекрасным выбором будет домен .com.</p><p>Можете прочитать о лучших сайтах - регистраторах <a href=\"cheapest-domens.html\">тут</a> или о том, каким образом можно улучшить свой сайт <a href=\"step4.html\">тут</a>.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7m",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -1625,6 +1675,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>Теперь из всего этого должен идти какой - то <b>вывод</b>:</p><p>Лично для себя - продолжу пользоваться <a href=\"http://reg.ru\" target=\"_blank\">Рег ру</a>, т.к у меня там у же есть зарегистрированный домен и я там хоть что - то понимаю.</p><p>Если до этого у вас доменов не было, то вполне себе можно начать c <a href=\"http://domains.nethouse.ru\" target=\"_blank\">Nethouse</a>, он мне кажется надежным сайтом с доменами по 50 рублей.</p><p>Если вы еще не читали о том, как просто и быстро создавать собственные сайты, начните <a href=\"introduction.html\">отсюда</a>. А если вам нужно знать, как улучшить свой сайт - вам <a href=\"step4.html\">сюда</a>.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7n",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -2865,7 +2940,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Чтобы мой/ваш сайт увидели все желающие, к нему нужно купить домен и захостить сайт (как я создавал сайт, читай <a href=\"Day 2.html\">тут</a>).</p><p>Для этого нам понадобится хост (<a href=\"http://github.com/\" target=\"_blank\">github.com</a>)&nbsp;и домен (<a href=\"http://reg.ru\" target=\"_blank\">reg.ru</a>).</p><p>Гитхаб я выбрал, т.к сам Mobirise предлагает всем использовать этот сайт (как см. ниже), а рег.ру как регистратор доменов, т.к это один из самых (если не самый) крупный сайт-регистратор доменов в России</p><p>Начать лучше всего с хоста, чем я и займусь.</p><p>Однако перед этим, узнаем, что такое хост и домен.</p><p>Посмотрим, что скажет Википедия:</p><p><b>Хост</b> (от англ. host — «хозяин, принимающий гостей») — любое устройство, предоставляющее сервисы формата «клиент-сервер» в режиме сервера по каким-либо интерфейсам и уникально определённое на этих интерфейсах. В более частном случае под хостом могут понимать любой компьютер, сервер, подключённый к локальной или глобальной сети.</p><p><b>Доменное имя </b>— символьное имя, помогающее находить адреса интернет-серверов.</p><p><b>Доменная зона</b> — зона ответственности в распределённой системе DNS.</p><p>Само определение \"Домен\" является набором сложных и неотносящихся к работе слов, поэтому я его не привел.</p><p>Теперь все - таки начнем:</p><p>Сначала надо зайти на сайт github.com и пройти регистрацию.</p>"
+          "text": "<p>Чтобы мой/ваш сайт увидели все желающие, к нему нужно купить домен и захостить сайт (как я создавал сайт, читай <a href=\"step2.html\">тут</a>).</p><p>Для этого нам понадобится хост (<a href=\"http://github.com/\" target=\"_blank\">github.com</a>)&nbsp;и домен (<a href=\"http://reg.ru\" target=\"_blank\">reg.ru</a>).</p><p>Гитхаб я выбрал, т.к сам Mobirise предлагает всем использовать этот сайт (как см. ниже), а рег.ру как регистратор доменов, т.к это один из самых (если не самый) крупный сайт-регистратор доменов в России</p><p>Начать лучше всего с хоста, чем я и займусь.</p><p>Однако перед этим, узнаем, что такое хост и домен.</p><p>Посмотрим, что скажет Википедия:</p><p><b>Хост</b> (от англ. host — «хозяин, принимающий гостей») — любое устройство, предоставляющее сервисы формата «клиент-сервер» в режиме сервера по каким-либо интерфейсам и уникально определённое на этих интерфейсах. В более частном случае под хостом могут понимать любой компьютер, сервер, подключённый к локальной или глобальной сети.</p><p><b>Доменное имя </b>— символьное имя, помогающее находить адреса интернет-серверов.</p><p><b>Доменная зона</b> — зона ответственности в распределённой системе DNS.</p><p>Само определение \"Домен\" является набором сложных и неотносящихся к работе слов, поэтому я его не привел.</p><p>Теперь все - таки начнем:</p><p>Сначала надо зайти на сайт github.com и пройти регистрацию.</p>"
         },
         {
           "_tags": [
@@ -3396,6 +3471,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>И удивлению моему не было предела. \"Как это так, где же мой прекрасный сайт? Что же с ним не так? Наверняка напортачил с дурацким доменом!\" - так я думал. А оказалось все куда прозаичнее. Моя стартовая страница называлась Welcome!.html, а как оказалось, должна была быть index.html (я не знаю почему и зачем, но интернет сказал так надо). И в стандартной версии, стартовая страница в Mobirise называется index.html. &nbsp;Кстати, страница index.html и была той самой неудаляемой страницей о которой я говорил в постскриптуме во <a href=\"step2.html\">втором этапе</a>.</p><p>Тут я еще разбираюсь какой <a href=\"domens.html\">домен самый лучший</a>&nbsp; и как <a href=\"cheapest-domens.html\">выбрать хороший сайт-регистратор</a>.</p><p><br></p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7l",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
