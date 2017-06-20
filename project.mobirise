@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "step2.html",
+    "currentPage": "index.html",
     "name": "Это рабочий",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 289,
+    "uniqCompNum": 295,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -3738,7 +3738,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Скорее всего, этот блок будет если не самым длинным, то точно одним из. Я буду постепеноо совершенствовать свой сайт, а сюда заносить процесс этого совершенствования.</p><p>Для начала, я хотел сделать https для сайта, дабы он был более защищенным.</p><p>Проведем ликбез:</p><p>HTTPS (аббр. от англ. HyperText Transfer Protocol Secure) — расширение протокола HTTP, для поддержки шифрования в целях повышения безопасности.</p><p>Теперь всем стало понятно, что иметь https на своем сайте - штука довольно полезная. Остался вопрос - как мне его бесплатно оформить и прикрутить к сайту? С этим вопросом я отправился на просторы интернета, и нашел вот такое вот руководство <a href=\" https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc\" target=\"_blank\">https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc</a></p><p>Если с английским у вас пробелмы, то я объясню:</p><p>Переходим по этой ссылке, и регистрируемся <a href=\"http://cloudflare.com\" target=\"_blank\">cloudflare.com</a></p>"
+          "text": "<p>Скорее всего, этот блок будет если не самым длинным, то точно одним из. Я буду постепеноо совершенствовать свой сайт, а сюда заносить процесс этого совершенствования.</p><p>Для начала, я хотел сделать https для сайта, дабы он был более защищенным.</p><p>Проведем ликбез:</p><p>HTTPS (аббр. от англ. HyperText Transfer Protocol Secure) — расширение протокола HTTP, для поддержки шифрования в целях повышения безопасности.</p><p>Теперь всем стало понятно, что иметь https на своем сайте - штука довольно полезная. Остался вопрос - как мне его бесплатно оформить и прикрутить к сайту? С этим вопросом я отправился на просторы интернета, и нашел вот такое вот руководство <a href=\" https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc\" target=\"_blank\">https://hackernoon.com/set-up-ssl-on-github-pages-with-custom-domains-for-free-a576bdf51bc</a></p><p>Если с английским у вас проблемы, то я объясню:</p><p>Переходим по этой ссылке, и регистрируемся <a href=\"http://cloudflare.com\" target=\"_blank\">cloudflare.com</a></p>"
         },
         {
           "_tags": [
@@ -3914,7 +3914,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Теперь переходим на сайт-регистратор (в моем случае это рег ру), и переставляем днс сервера в специальносм поле &nbsp; &nbsp;</p>"
+          "text": "<p>Теперь переходим на сайт-регистратор (в моем случае это рег ру), и переставляем днс сервера в специальном поле &nbsp; &nbsp;</p>"
         },
         {
           "_tags": [
@@ -4191,7 +4191,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Проходим абсолютно простой и схожий с рег ру алгоритм покупки домена, подтверждаем номер телефона, и теперь я обладатель домена сайтснуля.рф.</p><p>Вроде бы, осталось прикрутить его к гитхабу и все... Но не тут то было. Больше одного CNAME файла быть не может - не может быть двух доменов на одном и том же гитхаб аккаунте. Об этом я прочитал вот<a href=\"https://help.github.com/articles/troubleshooting-custom-domains/\" target=\"_blank\"> тут&nbsp;</a>.</p><p>Эта ситуация огорчила меня, но я не растерялся, и создал еще одну страницу гитхаб, и залил туда все тоже самое.</p>"
+          "text": "<p>Теперь надо сделать свой сайт более легким в поиске! С этой мыслью я решил купить домен .рф на Nethouse, и сделать так, чтобы мой домен сайтснуля.рф показывал тоже самое, что и websitezero.ru.</p><p>Для этого, покупаем домен на Нетхаусе</p>"
         },
         {
           "_tags": [
@@ -4559,7 +4559,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Видите? Я сам зашел на собственный сайт, и статстика начала показывать, какие страницы я <i>прямо сейчас</i>&nbsp;смотрю, <i>&nbsp;где я нахожусь</i>, и как давно я зашел.</p>"
+          "text": "<p>Видите? Я сам зашел на собственный сайт, и статистика начала показывать, какие страницы я <i>прямо сейчас</i>&nbsp;смотрю, <i>&nbsp;где я нахожусь</i>, и как давно я зашел.</p>"
         },
         {
           "_tags": [
@@ -4600,7 +4600,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Таким нехитрым способом я могу отслеживать активность на своем сайте даже в реальном времени.</p><p>Кстати о реальном времени. Тут он немного нерабочее, точнеее полохорабочее, например, я уже 5 минут как закрыл сайт, но на аналитике гордо висит значение посетитиелей \"1\". &nbsp;Я решил подождать. и даже через 10 минут ничего не изменилось. Тогда я решил зайти с другоого барузера, и в другом браузере все работало нормально (никто не сидит), а вернувшись в гугл я увидел вот такую картину:</p>"
+          "text": "<p>Таким нехитрым способом я могу отслеживать активность на своем сайте даже в реальном времени.</p><p>Кстати о реальном времени. Тут он немного нерабочее, точнеее полохорабочее, например, я уже 5 минут как закрыл сайт, но на аналитике гордо висит значение посетитиелей \"1\". &nbsp;Я решил подождать. и даже через 10 минут ничего не изменилось. Тогда я решил зайти с другого браузера, и в другом браузере все работало нормально (никто не сидит), а вернувшись в гугл я увидел вот такую картину:</p>"
         },
         {
           "_tags": [
@@ -4745,7 +4745,187 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "После этого нужно добавить комментарии на сайт. Для этого следует зайти в раздел EXTENSION &amp; THEMES в боковом меню, и нажать на плюсик у иконик SOCIAL COMMENTS. Это добавит один новый блок с комментраиями в раздел extensions. Добавляем его и выбираем, на какой платформе будут комментарии на сайте (google; disqus; facebook). К сожалению, я так и не смог <i>хоть как-то</i>&nbsp;настроить комментарии. Они у меня просто не отображаются (одна статичная картинка и все) я обращался к довольно большому количеству руководств (<a href=\"https://help.disqus.com/customer/portal/articles/1257441-adding-disqus-to-your-site\" target=\"_blank\">это</a>/вот <a href=\"https://help.disqus.com/customer/portal/articles/1104788-web-integration\" target=\"_blank\">это</a>/еще <a href=\"http://help.gophotoweb.com/hc/ru/articles/203789629-%D0%9D%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B5%D0%B2-%D0%BE%D1%82-Disqus\" target=\"_blank\">это</a>/<a href=\"https://developers.facebook.com/docs/plugins/comments/\" target=\"_blank\">тут</a>)"
+          "text": "После этого нужно добавить комментарии на сайт. Для этого следует зайти в раздел EXTENSION &amp; THEMES в боковом меню, и нажать на плюсик у иконик SOCIAL COMMENTS. Это добавит один новый блок с комментраиями в раздел extensions. Добавляем его и выбираем, на какой платформе будут комментарии на сайте (google; disqus; facebook). Лично я решил добавить комментарии disqus тк они мне показались самыми простыми в настройке.&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1041.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x634.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1419.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x983.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "left",
+                "showTitle": false,
+                "title": "BACKGROUND VIDEO",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-81"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-82",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>Чтобы настроить комментарии disqus нам нужен так называемый \"disqus shortname\", для этого нужно в настройках нажать на зеленую кнопку here, после чего последует регистрация вашего сайта на disqus. Дальше вам предложат установить disqus на сайт, но у мобирайза и так все уже есть, так что этот этап пропустите (вы сюда вообще пришли только для шортнэйма). Теперь возвращаемся на сайт, в настройках блока коментариев вводим свой шортнэйм, и готово! Комментарии работают.&nbsp;</p><p>Важно, что комментарии <i>не будут работать в предпросмотре сайта</i>&nbsp;поэтому вам его нужно будет перезалить и посмотреть , что же там.</p><p>Как видите, у меня все работает, а у вас? Делитесь в комментариях.</p><p>Теперь то они у меня есть.</p>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-lead": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider2",
+          "_params": {
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1737.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "BOOTSTRAP SLIDER",
+                "showText": false,
+                "text": "Slide with image and solid color overlay.<br>Title, text and buttons are centered.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x1222.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/screenshot-2000x924.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": false,
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "IMAGE SLIDER",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ],
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider2-85"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-86",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     }
