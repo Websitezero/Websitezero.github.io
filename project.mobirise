@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 283,
+    "uniqCompNum": 289,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -490,6 +490,31 @@
           "text": "Расскажи об этом сайте!"
         },
         {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7u",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -545,31 +570,6 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Отправить</a>"
-        },
-        {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-7u",
-          "_params": {
-            "postsNumber": 5,
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.6,
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": false,
-            "socialGoogle": false,
-            "shortName": "websitezero-1",
-            "socialDisqus": true
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -938,6 +938,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>Очевидно, я решил начать создавать свой сайт с помощью Mobirise т.к он мне очень понравился, да и плюсов у него больше, чем у остальных.</p><p>Пора <a href=\"step2.html\">создать сам сайт</a>.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7v",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -1084,6 +1109,31 @@
             "bgColor": "#ffffff"
           },
           "text": "<p>Добрый день, меня зовут Иван, и я учусь в 8-ом классе. Совсем недавно я решил научиться  делать  собственные сайты, т.к в будущем я хочу связать свою жизнь с IT - индустрией. В плане простой компьютерной грамотности (Word, PowerPoint, Excel и т.д) я вполне понимающий, но созданием сайтов никогда не занимался, и о HTML только пару раз слышал. Однако свой сайт сделать хочется, и тут мне на помощь приходят сайт-мейкеры - программы для создания этих самых сайтов без особых знаний в области программирования. Для меня это отличная возможность реализовать намеченную цель, и я решил что буду делиться с вами процессом создания своего сайта, для того, чтобы в будущем таким новичкам как я было легче и быстрее создать свой сайт.</p><p>Начать я решил с такой программы как <a href=\"http://mobirise.com/\" target=\"_blank\">Mobirise</a> т.к она мне показалась более понятной и простой, чем другие сайт-мейкеры (да и отзывы там хорошие). Позже я попытаюсь создать свой сайт с помощью других программ (через <a href=\"http://www.wix.com\" target=\"_blank\">Wix</a>, например).</p><p>Чтобы вам проще было ориентироваться, я оствалю вам оглавление:</p><p>*<a href=\"searching.html\">Ищем лучший сайт-мейкер</a></p><p>*<a href=\"step2.html\">Начинаем работу с сайтом</a><a href=\"Day 2.html\"></a></p><p>*<a href=\"step3.html\">Опубликовываем сайт и покупаем домен</a></p><p>*<a href=\"step4.html\">Улучшаем свой сайт</a></p><p><br></p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-80",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         },
         {
           "_tags": [
@@ -1277,6 +1327,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>Уже после того,&nbsp;<a href=\"step3.html\">как я выложил сайт в сеть</a>, меня посетила мысль, мол, а какой домен самый лучший (для жителей России, конечно).</p><p>Естественно, идеального домена нет, т.к каждый делает сайт для своих целей. Турагенству, например покупка домен .travel была бы неплохим приобретением, но в то же время этот домен совершенно не подойдет сайту средств массовой информации (СМИ), для которых просто идеален домен .net. Поэтому сейчас я постараюсь найти не идеальный, а универсальный домен, который вполне подошел бы всем вместе.</p><p>На рассмотрение я взял три международные доменные зоны (.org/.com/.net), и четыре российские зоны (.ru/.su/.рф/.рус). Разбирать мы их будем по простым параметрам:</p><p>*Популярность (среди покупателей доменов) -низкая/есть/очень популярна</p><p>*Цена (на основе цен на <a href=\"http://reg.ru\" target=\"_blank\">reg.ru </a>, со скидками и без)</p><p>*Зона охвата (на какие районы распросраняется зона)</p><p>Ну и мое личное мнение по поводу каждого из доменов. Начнем:</p><p>1. .org</p><p>*<b>Популярность</b> - есть (довольно часто вижу сайты с доменной зоной .org)</p><p>*<b>Цена</b> - 606/1308 руб.&nbsp;</p><p>*<b>Международная зона</b></p><p>Зона довольно известная, каждый видел хотя бы один сайт, кончающийся на .org, но как по мне, домен слишком дорогой и все - таки менее популярный чем .com, однако если вы какое то новостное издание, то .org вам подойдет.</p><p>2. .com</p><p>*<b>Популярность</b> - очень популярна</p><p>*<b>Цена</b> - 479/1086 руб.</p><p>*<b>Международная зона</b></p><p>Вот такой бы домен я бы купил, если бы были деньги. Очень популярный и леко узнаваемый международный домен, так что если ваш сайт нацелен не только на Россию, то смело берите этот домен - не прогадаете.</p><p>3. .net</p><p>*<b>Популярность</b> - есть (но в России в меньшей мере)</p><p>*<b>Цена </b>- 512/1142 руб.</p><p>*<b>Международная зона</b></p><p>В последнее время я начал редко видеть сайт с доменом .net, однако это не значит что их нет или их мало. Просто стали реже регистрировать новые. Но если вы (как уже говорилось выше) создаете сайт для СМИ, то домен .net для вас будет в самый раз, т.к на западе этот домен давно косвенно ассоциируется со СМИ.</p><p>4. .ru</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">*<b>Популярность</b> - очень популярна</span><br></p><p>*<b>Цена </b>- 99/1000 руб.</p><p>*<b>РФ</b></p><p>Ох, этот старый - добрый .ru... Даже этот сайт находиться в доменной зоне .ru, что тут сказать. Невероятно популярный домен, почти любой сайт в России заканчивается именно на .ru.  Мне кажется, дальнейшие комментарии излишни.</p><p>5. .su</p><p>*<b>Популярность</b> - низкая (но это не точно)</p><p>*<b>Цена</b> - 459/850 руб.</p><p>*<b>Рф и страны бывшего Советского Союза</b></p><p>Сказать по-правде, я только один раз в жизни видел домен .su - в танках (вы поняли о чем я), поэтому лично я не рекомендовал вам покупать такой домен. Во - первых, дорого даже со скидкой. Во - вторых непопулярно (это только мое мнение). Хотя, есл вы из Беларуси, например, то возможно этот домен вам подойдет. В итоге, на свой страх и риск.</p><p>6. .рф</p><p>*<b>Популярность</b> - есть</p><p>*<b>Цена</b> - 99/999 руб</p><p>*<b>Рф</b></p><p>Этот домен я постоянно вижу на сайтах госучреждений. Из этого следует, что если вы делаете сайт госучреждения, то вы (мне просто так кажется) обязаны иметь домен .рф, но если вы не госслужащий, то лучше возьмите .ru.</p><p>7. .рус</p><p>*<b>Популярность</b> - низкая</p><p>*<b>Цена</b> - 459/1469 руб</p><p>*<b>Рф</b></p><p>Вот что - что, а такой домен лучше не покупать. Мало того что спрос на такой домен крайне низок, так еще и цена куда выше, чем у того же .ru, или даже .su. О пользе этого домена лучше не говорить, т.к мне кажется что он нужен для всяких глупых и неэкономных людей.</p><p>Итак, <b>подведем итоги</b>.</p><p>Для обычного ИП-шника или любого другого человека, не нацеленого на работу своего сайта на международном уровне прекрасно подходит домен .ru. Популярный, узнаваемы, а самое главное - дешевый, он оставил соперников позади и стал самым лучшим (по моему мнению, конечно) доменом России. Ура(?)</p><p>Если же вы хотите, чтобы ваш сайт был международным, то для вас прекрасным выбором будет домен .com.</p><p>Можете прочитать о лучших сайтах - регистраторах <a href=\"cheapest-domens.html\">тут</a> или о том, каким образом можно улучшить свой сайт <a href=\"step4.html\">тут</a>.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7y",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -1650,6 +1725,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>Теперь из всего этого должен идти какой - то <b>вывод</b>:</p><p>Лично для себя - продолжу пользоваться <a href=\"http://reg.ru\" target=\"_blank\">Рег ру</a>, т.к у меня там у же есть зарегистрированный домен и я там хоть что - то понимаю.</p><p>Если до этого у вас доменов не было, то вполне себе можно начать c <a href=\"http://domains.nethouse.ru\" target=\"_blank\">Nethouse</a>, он мне кажется надежным сайтом с доменами по 50 рублей.</p><p>Если вы еще не читали о том, как просто и быстро создавать собственные сайты, начните <a href=\"introduction.html\">отсюда</a>. А если вам нужно знать, как улучшить свой сайт - вам <a href=\"step4.html\">сюда</a>.</p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7z",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
@@ -1660,6 +1760,31 @@
         "order": 4
       },
       "components": [
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7w",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
+        },
         {
           "_name": "footer1",
           "_styles": {
@@ -3421,6 +3546,31 @@
             "bgColor": "#fff"
           },
           "text": "<p>И удивлению моему не было предела. \"Как это так, где же мой прекрасный сайт? Что же с ним не так? Наверняка напортачил с дурацким доменом!\" - так я думал. А оказалось все куда прозаичнее. Моя стартовая страница называлась Welcome!.html, а как оказалось, должна была быть index.html (я не знаю почему и зачем, но интернет сказал так надо). И в стандартной версии, стартовая страница в Mobirise называется index.html. &nbsp;Кстати, страница index.html и была той самой неудаляемой страницей о которой я говорил в постскриптуме во <a href=\"step2.html\">втором этапе</a>.</p><p>Тут я еще разбираюсь какой <a href=\"domens.html\">домен самый лучший</a>&nbsp; и как <a href=\"cheapest-domens.html\">выбрать хороший сайт-регистратор</a>.</p><p><br></p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-7x",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "file:///C:/Users/Mobirise/AppData/Local/Mobirise.com/Mobirise/projectData/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": false,
+            "socialGoogle": false,
+            "shortName": "websitezero-1",
+            "socialDisqus": true
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/disqus-comments.jpg\"></div>"
         }
       ]
     },
